@@ -1,15 +1,15 @@
 # Project information
 site_name: Left4Craft Wiki
-site_description: General information and guides for Left4Craft.
+site_description: Left4Craft's wiki - home to guides and useful information
 site_author: Left4Craft
 site_url: https://wiki.left4craft.org
 
 # Repository
-# repo_name: left4craft/wiki
-# repo_url: https://github.com/left4craft/wiki
+repo_name: left4craft/wiki
+repo_url: https://github.com/left4craft/wiki
 
 # Copyright
-copyright: '&copy; 2020 Trevor W'
+copyright: '&copy; 2020 Left4Craft'
 
 # Configuration
 theme:
