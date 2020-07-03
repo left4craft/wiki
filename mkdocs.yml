@@ -1,6 +1,6 @@
 # Project information
 site_name: Left4Craft Wiki
-site_description: Left4Craft's wiki - home to guides and useful information
+site_description: Left4Craft's wiki - home to guides and other useful information
 site_author: Left4Craft
 site_url: https://wiki.left4craft.org
 
@@ -14,6 +14,7 @@ copyright: '&copy; 2020 Left4Craft'
 # Configuration
 theme:
   name: material
+  custom_dir: overrides/
   language: en
   palette:
     scheme: slate
@@ -24,8 +25,8 @@ theme:
     code: Roboto Mono
   features:
     - instant
-  logo: img/logo.png
-  favicon: img/favicon.ico
+  logo: /img/logo.png
+  favicon: /img/favicon.ico
 
 # Extras
 extra:
@@ -42,8 +43,8 @@ extra:
 
 plugins:
   - search # necessary for search to work
-  - git-revision-date-localized
-  - awesome-pages
+  - git-revision-date-localized # last modified date at bottom of page
+  - awesome-pages # custom nav order
 
 # Extensions
 markdown_extensions:

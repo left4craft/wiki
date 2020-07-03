@@ -1,0 +1,1 @@
+Please refer to https://wiki.left4craft.org/contributing

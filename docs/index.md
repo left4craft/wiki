@@ -1,3 +1,7 @@
+---
+authors: 
+ - eartharoid
+---
 # Home
 
 !!! info ""

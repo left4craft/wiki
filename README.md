@@ -1,7 +1,6 @@
 # Left4Craft Wiki
 
-[wiki.left4craft.org](https://wiki.left4craft.org)
-
+[wiki.left4craft.org](https://wiki.left4craft.org): [Contributing](https://wiki.left4craft.org/contributing)
 ## How to edit
 
 Anyone with a GitHub can contribute by forking, editing, and making a pull request. *If you spot a small mistake, you can create an [issue](https://github.com/Left4Craft/wiki/issues) to get someone else to fix it.*
