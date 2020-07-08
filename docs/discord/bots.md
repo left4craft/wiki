@@ -1,4 +1,4 @@
-# Staff guide
+# Bots
 
 !!! question "Page incomplete"
 	This page needs [contribution](/contributing)!

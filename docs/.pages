@@ -3,7 +3,9 @@ arrange:
  - welcome.md
  - rules.md
  - gamemodes
+ - essentials.md
  - claims
+ - economy.md
  - ...
  - contributing.md
  - staff-guide
