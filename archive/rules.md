@@ -14,6 +14,7 @@ It is up to the highest ranking staff member online at the time to decide if/wha
 1. Harassment/bullying will not be tolerated
 2. Do not demand/beg staff or players to do things for you
 3. Please do not ask for staff ranks unless you are using the official application format - all staff earn their position through hard work and commitment
+4. If you need help from staff, use /helpop (message) and it'll get relayed to them. If no staff are online at the time, ask on [Discord](https://discord.left4craft.org)
 5. Constant negative attitude may lead to being muted or banned
 
 ### Use in-game chat appropriately
