@@ -11,12 +11,15 @@ This page is intended for new players.
 
 ## How to join
 
-Left4Craft is a Java Edition server.
+Left4Craft is a Java Edition server, however, you can join from a Bedrock client if you also have a Java Edition account.
 
-??? question "New to Minecraft?"
-	To join Left4Craft, launch Minecraft *(you need to have bought and downloaded **Java Edition**)*, click `Multiplayer`, then click `Add server`. For the server name, write `Left4Craft`. Write `mc.left4craft.org` in the server address box.
+??? question "How to join from Java Edition"
+	Launch Minecraft, click "Multiplayer", then click "Add server". For the server name, type `Left4Craft`. Type `mc.left4craft.org` in the server address box.
 
-## Getting Started
+??? question "How to join from Bedrock Edition"
+	Launch Minecraft Bedrock and go to the server list. Click "Add server". For the server name, type `Left4Craft`. Type `mc.left4craft.org` in the server address box. Leave the Port number as default. When you attempt to join, you will be prompted to enter your account details for a Java Edition account.
+
+## Getting started
 
 When you first join you will spawn on the Hub server. Right-click the compass in your hand to open the server switcher.
 
