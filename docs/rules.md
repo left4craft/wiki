@@ -60,7 +60,7 @@ Anyone found to have breached the rules may face [punishment as described below]
 
 <span id="4b"><a href="#4b">4b.</a> Unless all players agree otherwise, items must be returned after death</span>
 
-<span id="4c"><a href="#4c">4c.</a> Intentionally using or allowing mobs to kill a player in considered PvP</span>
+<span id="4c"><a href="#4c">4c.</a> Intentionally using or allowing mobs to kill a player is considered PvP</span>
 
 <span id="4d"><a href="#4d">4d.</a> If someone says "stop", stop immediately; it will be considered unauthorised PvP if you don't.</span>
 
