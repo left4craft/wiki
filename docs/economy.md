@@ -10,7 +10,7 @@ Action | Earnings
 -------|---------
 Voting | $100
 Selling Item | Varies
-Win in CtaM | $25
+Discord count to a million | $25
 
 ## Commands
 Command | Description
