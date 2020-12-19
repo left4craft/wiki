@@ -15,14 +15,22 @@ Discord count to a million | $25
 ## Commands
 Command | Description
 --------|-----------
-/sell | Sells chosen item
-/sellhand | Sells item in hand
-/sellall | Sells all items in inventory
-/buy | Buys chosen item
-/cost | Displays cost of chosen item 
+/buy <item> [amount] | Buy items from the server
+/sell <item> [amount] | Sell items to the server
+/sellhand | Sell item in hand to the server
+/sellall | Sells all items in inventory (**dangerous**)
+/cost [item] | Displays how much an item is worth
 /balance | Displays amunt of money in players account 
-/pay | Pays chosen player chosen amount 
+/pay <player> <amount> | Transfer money to another player
+/trade <player> | Trade with a player
 
 !!! danger
 	`/sellall` will sell **everything** in your inventory, not just all of one item!
 	Remove anything your don't want to sell before using this command.
+	
+## Trade
+
+Initiate a trade by using `/trade <player>`. The other player will have 15 seconds to accept your trade offer by clicking in chat. 
+
+When accepted, both players will see a GUI (a virtual chest inventory) where you can echange items, money, XP, and claim blocks.
+
