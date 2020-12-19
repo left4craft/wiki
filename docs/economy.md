@@ -15,14 +15,14 @@ Discord count to a million | $25
 ## Commands
 Command | Description
 --------|-----------
-/buy <item> [amount] | Buy items from the server
-/sell <item> [amount] | Sell items to the server
-/sellhand | Sell item in hand to the server
-/sellall | Sells all items in inventory (**dangerous**)
-/cost [item] | Displays how much an item is worth
-/balance | Displays amunt of money in players account 
-/pay <player> <amount> | Transfer money to another player
-/trade <player> | Trade with a player
+`/buy <item> [amount]` | Buy items from the server
+`/sell <item> [amount]` | Sell items to the server
+`/sellhand` | Sell item in hand to the server
+`/sellall` | Sells all items in inventory (**dangerous**)
+`/cost [item]` | Displays how much an item is worth
+`/balance` | Displays amunt of money in players account 
+`/pay <player> <amount>` | Transfer money to another player
+`/trade <player>` | Trade with a player
 
 !!! danger
 	`/sellall` will sell **everything** in your inventory, not just all of one item!
