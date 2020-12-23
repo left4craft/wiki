@@ -28,7 +28,7 @@ You can open this menu at any time by typing `/game`, or go directly to the serv
 - `/hub`
 - `/survival`
 - `/creative`
-- `/zombies`
+- `/paintball`
 
 ## Survival
 
@@ -39,6 +39,6 @@ The [Survival](/gamemodes/survival) gamemode offers a semi-vanilla experience, i
 In creative, each play gets 1 or more large (101*101) flat plots. You can use this space to design your Survival base, test redstone, or just be creative.
 See [creative plots](/gamemodes/creative) for information
 
-## Zombies
+## Paintball
 
-Zombies is a minigame with guns and custom mobs. See [zombies minigame](/gamemodes/zombies).
+A fun minigame that replaced Zombies. See [paintball minigame](/gamemodes/paintball).
