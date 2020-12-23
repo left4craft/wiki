@@ -24,7 +24,7 @@ Anyone found to have breached the rules may face [punishment as described below]
 
 <span id="1e"><a href="#1e">1e.</a> You may not use an alternate account for afk uses, as it provides and unfair advantage (but you may use your main account)</span>
 
-<span id="1e"><a href="#1e">1e.</a> You may not use an alternate account to evade bans</span>
+<span id="1f"><a href="#1f">1f.</a> You may not use an alternate account to evade bans</span>
 
 <h3 id="2"><a href="#2">2.</a> Use in-game and Discord chat appropriately</h3>
 
