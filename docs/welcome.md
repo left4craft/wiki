@@ -28,7 +28,7 @@ You can open this menu at any time by typing `/game`, or go directly to the serv
 - `/hub`
 - `/survival`
 - `/creative`
-- `/paintball`
+- `/partygames`
 
 ## Survival
 
@@ -36,9 +36,9 @@ The [Survival](/gamemodes/survival) gamemode offers a semi-vanilla experience, i
 
 ## Creative
 
-In creative, each play gets 1 or more large (101*101) flat plots. You can use this space to design your Survival base, test redstone, or just be creative.
-See [creative plots](/gamemodes/creative) for information
+In Creative, each player gets a large (101*101) flat plot. You can use this space to design your Survival base, test redstone, or just be creative.
+See [creative plots](/gamemodes/creative) for information.
 
-## Paintball
+## Partygames
 
-A fun minigame that replaced Zombies. See [paintball minigame](/gamemodes/paintball).
+Have fun with 3 or more friends in Partygames, Left4Craft's unique collection of small minigames. See [Partygames](/gamemodes/partygames).
