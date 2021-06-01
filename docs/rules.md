@@ -115,7 +115,7 @@ Not all potential punishments are listed. As previously stated, this table is a 
 
 *Severity may refer to the number of times the offence has been committed, or how bad the offence was this time.*
 
-You may be able to [appeal](https://left4.cf/appeal) your punishment **once**.
+You may be able to [appeal](https://l4c.link/appeal) your punishment **once**.
 
 | Offence                                 | Severity 1                      | Severity 2                      |
 |:----------------------------------------|:--------------------------------|:--------------------------------|
