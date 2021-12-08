@@ -2,7 +2,7 @@
 
 ## Overview
 ---
-Core protect is a spigot plugin designed for anti-griefing servers. It logs nearly *all* world interactions -- players opening doors, looting chests, breaking and placing blocks; tnt blowing up blocks, water and lava flow, etc. Logs include time, the acting player or entity, and give the ability for staff to [roll back](#Rollback) any logged event. Per Core Protect's [spigot page](https://www.spigotmc.org/resources/coreprotect.8631/):
+CoreProtect is a spigot plugin designed for anti-griefing servers. It logs nearly *all* world interactions -- players opening doors, looting chests, breaking and placing blocks; TNT blowing up blocks, water and lava flow, etc. Logs include time, the acting player or entity, and give the ability for staff to [roll back](#rollback) any logged event. Per CoreProtect's [Spigot page](https://www.spigotmc.org/resources/coreprotect.8631/):
 
 > CoreProtect is a fast, efficient, data logging and anti-griefing tool. Rollback and restore any amount of damage. Designed with large servers in mind, CoreProtect will record and manage data without impacting your server performance.
 
@@ -22,14 +22,14 @@ If you are going to take any action based on information you gained from core pr
 1. [Parameters](#Parameters)
 1. [Further Reading](#FR)
 
-## <a id="Commands"></a>Commands
+## Commands
 ---
-## <a id="Inspect"></a>**Inspect**
+### `inspect`
 Usage: `/coreprotect inspect` or `/co i`
 
 **Inspect** allows you to see what and when a player or entity committed an action. Left-clicking a block allows you to see actions done directly on that block while right-clicking allows you to see actions done on adjacent blocks.
 
-## <a id="Lookup"></a>**Lookup**
+### `lookup`
 
 Usage: `/coreprotect lookup` or `/co l`
 
@@ -37,7 +37,7 @@ Usage: `/coreprotect lookup` or `/co l`
 
 Lookup displays the logs of player an entity actions according to paramenters entered in the command. All parameters are optional, but if you are able to be specific, do so -- it will reduce the otherwise large amount of logs you must look through.
 
-## <a id="Rollback"></a>**Rollback**
+### `rollback`
 Usage: `/coreprotect rollback` or `/co rb`
  
 - [Parameters](#Parameters)
@@ -50,7 +50,7 @@ Rollback is used to bring an area back to a previous state. It undoes actions do
 !!! info
 	If you are rolling back a grief, roll back while specifying a user. If a rollback is only partially completed, i.e. part of someone's roof is still missing, you may be able to discover another griefer with [inspect](#Inspect)
 
-## <a id="Resore"></a>**Restore**
+### `restore`
 
 Usage: `/coreprotect restore` or `/co rs`
 
@@ -58,13 +58,13 @@ Usage: `/coreprotect restore` or `/co rs`
 
 This command is used to undo a [rollback](#Rollback).
 
-## <a id="Undo"></a>**Undo**
+### `undo`
 Usage: `/co undo`
 
 This command undoes your latest [rollback](#Rollback) or [restore](#Restore).
 
 ---
-## <a id="Parameters"></a>**Parameters** (optional): 
+## Parameters
 
 Usage: `/co l u:[user] t:[time] r:[radius] a:[action] b:[blocks]`
 
@@ -97,7 +97,7 @@ This usage uses [lookup](#Lookup) as an example. The formatting is the same for 
 	- a:username (username changes)
 - blocks: actions done on a specific block, such as b:`56` (diamond_ore). Must use block ID's, which you can get [here](https://minecraftitemids.com/).
 ---
-## <a id="FR"></a>**Further Reading**
+## Further Reading
 
 This page only covers the basics of coreprotect. For more information, use of commands, watch [this video](https://www.youtube.com/watch?v=JwijCiueZ3Y) by YourMCAdmin and read the sources.
 
