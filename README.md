@@ -1,6 +1,7 @@
 # Left4Craft Wiki
 
 [wiki.left4craft.org](https://wiki.left4craft.org): [Contributing](https://wiki.left4craft.org/contributing)
+
 ## How to edit
 
 Anyone with a GitHub can contribute by forking, editing, and making a pull request. *If you spot a small mistake, you can create an [issue](https://github.com/Left4Craft/wiki/issues) to get someone else to fix it.*
@@ -13,4 +14,6 @@ The wiki uses [PyMdown](https://facelessuser.github.io/pymdown-extensions/) ([Mk
 
 ## How to build/deploy
 
-The CI will **automatically build and deploy** to GitHub Pages after a commit.
+The CI will automatically build and deploy the site.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1a66065b-d26f-4e0c-82a4-8d4048a32abc/deploy-status)](https://app.netlify.com/sites/l4c-wiki/deploys)
