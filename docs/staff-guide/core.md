@@ -6,7 +6,7 @@ CoreProtect is a spigot plugin designed for anti-griefing servers. It logs nearl
 
 > CoreProtect is a fast, efficient, data logging and anti-griefing tool. Rollback and restore any amount of damage. Designed with large servers in mind, CoreProtect will record and manage data without impacting your server performance.
 
-If you are going to take any action based on information you gained from core protect, you should screenshot relevant information with `F2`. 
+If you are going to take any action based on information you gained from core protect, you should screenshot relevant information with ++F2++. 
 
 !!! info
     Try to minimize the duplication of items through rolling back chests. Do not roll back stolen items, but instead try to retrieve them (if possible). 
