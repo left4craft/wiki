@@ -61,7 +61,8 @@ This command is used to undo a [rollback](#Rollback).
 ## <a id="Undo"></a>**Undo**
 Usage: `/co undo`
 
-This command undoes your latest [rollback](#Rollback) or [restore](#Restore). 
+This command undoes your latest [rollback](#Rollback) or [restore](#Restore).
+ 
 ---
 ## <a id="Parameters"></a>**Parameters** (optional): `/co l u:[user] t:[time] r:[radius] a:[action] b:[blocks]`
 - user: username of user whose logs will be isolated in results -- u:`rchristopherc`
