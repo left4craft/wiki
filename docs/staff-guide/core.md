@@ -68,6 +68,8 @@ This command undoes your latest [rollback](#Rollback) or [restore](#Restore).
 
 Usage: `/co l u:[user] t:[time] r:[radius] a:[action] b:[blocks]`
 
+This usage uses [lookup](#Lookup) as an example. The formatting is the same for `/co rb` and `/co rs`.
+
 - user: username of user whose logs will be isolated in results -- u:`rchristopherc`
 - time: How far back in time to look back. Specify time length with s (seconds), m (minutes), h (hours), w (weeks), y (years) -- t:`10m`, t:`2h`, t:`1w`, t:`1d,5h`
 - radius: radius from user to check logs for, use `#global` to check the whole world -- r:`5`, r:`#global`
