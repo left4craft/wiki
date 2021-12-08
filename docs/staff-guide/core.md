@@ -60,32 +60,32 @@ Usage: `/co l u:[user] t:[time] r:[radius] a:[action] b:[blocks]`
 
 This usage uses [lookup](#lookup) as an example. The formatting is the same for `/co rb` and `/co rs`.
 
-- user: username of user whose logs will be isolated in results -- u:`rchristopherc`
-- time: How far back in time to look back. Specify time length with s (seconds), m (minutes), h (hours), w (weeks), y (years) -- t:`10m`, t:`2h`, t:`1w`, t:`1d,5h`
-- radius: radius from user to check logs for, use `#global` to check the whole world -- r:`5`, r:`#global`
-- action: action user or entity took, or can be used to check chat logs (actions list from [Mine Realm](https://www.minerealm.com/community/viewtopic.php?f=32&t=6781))
-	- a:block (blocks placed/broken)
-	- a:+block (blocks placed)
-	- a:-block (blocks broken)
-	- a:chat (messages sent in chat)
-	- a:click (player interactions)
-	- a:command (commands used)
-	- a:container (items taken from or put in chests)
-	- a:+container (items put in chests)
-	- a:-container (items taken from chests)
-	- a:inventory (items dropped or picked up by players)
-	- a:+inventory (items picked up by players)
-	- a:-inventory (items dropped by players)
-	- a:item (items dropped, picked up, taken from, or put in chests)
-	- a:+item (items picked up or put in chests)
-	- a:-item (items dropped or taken from chests)
-	- a:kill (mobs/animals killed)
-	- a:session (player logins/logouts)
-	- a:+session (player logins)
-	- a:-session (player logouts)
-	- a:sign (messages written on signs)
-	- a:username (username changes)
-- blocks: actions done on a specific block, such as b:`56` (diamond_ore). Must use block ID's, which you can get [here](https://minecraftitemids.com/).
+- `user`: username of user whose logs will be isolated in results -- `u:rchristopherc`
+- `time`: How far back in time to look back. Specify time length with `s` (seconds), `m` (minutes), `h` (hours), `w` (weeks), and `y` (years) -- `t:10m`, `t:2h`, `t:1w`, `t:1d,5h`
+- `radius`: radius from user to check logs for, use `#global` to check the whole world -- `r:5`, `r:#global`
+- `action`: action user or entity took, or can be used to check chat logs (actions list from [Mine Realm](https://www.minerealm.com/community/viewtopic.php?f=32&t=6781))
+	- `a:block`: blocks placed/broken
+	- `a:+block`: blocks placed
+	- `a:-block`: blocks broken
+	- `a:chat`: messages sent in chat
+	- `a:click`: player interactions
+	- `a:command`: commands used
+	- `a:container`: items taken from or put in chests
+	- `a:+container`: items put in chests
+	- `a:-container`: items taken from chests
+	- `a:inventory`: items dropped or picked up by players
+	- `a:+inventory`: items picked up by players
+	- `a:-inventory`: items dropped by players
+	- `a:item`: items dropped, picked up, taken from, or put in chests
+	- `a:+item`: items picked up or put in chests
+	- `a:-item`: items dropped or taken from chests
+	- `a:kill`: mobs/animals killed
+	- `a:session`: player logins/logouts
+	- `a:+session`: player logins
+	- `a:-session`: player logouts
+	- `a:sign`: messages written on signs
+	- `a:username`: username changes
+- `blocks`: actions done on a specific block, such as `b:56` (`diamond_ore`). Must use block ID's, which you can get [here](https://minecraftitemids.com/).
 
 ## Further Reading
 
@@ -95,4 +95,3 @@ This page only covers the basics of coreprotect. For more information, use of co
 	- [GameDB](https://gamedb.gg/games/minecraft/coreprotect-commands/)
 	- [MineRealm/Intelli](https://www.minerealm.com/community/viewtopic.php?f=32&t=6781)
 	- [Core Protect](https://www.spigotmc.org/resources/coreprotect.8631/)
-	- [Mine Realm](https://www.minerealm.com/community/viewtopic.php?f=32&t=6781)
