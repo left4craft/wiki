@@ -8,6 +8,10 @@ The wiki is meant to help new players get started and become familiar with featu
 
 Contact **Eartharoid** for instructions.
 
+## Previews
+
+When you open a pull request to the main branch, you should see a build preview of what the wiki will look like after your pull request is merged. Please verify the formatting is correct.
+
 ## Resources
 
 Basics:
