@@ -14,9 +14,9 @@ For more information, you can read the book in-game "How to Claim Land" or watch
 
 ## Commands
 
-| Command                                 | Description
-|:----------------------------------------|:--------------------------------------------------------------------------
-|/buyclaimblocks                          |Purchase claim blocks for 1 credit each
+| Command                                 | Description                                                              |
+|:----------------------------------------|:-------------------------------------------------------------------------|
+|/buyclaimblocks                          |Purchase claim blocks for 1 credit each                            
 |/sellclaimblocks                         |Sell claim blocks for 1 credit each
 |/abandonclaim                            |Delete a land claim
 |/claimexplosions                         |Toggles if explosions are allowed in the claim
