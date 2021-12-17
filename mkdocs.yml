@@ -19,7 +19,7 @@ theme:
   palette:
     scheme: slate
     primary: green
-    accent: green
+    accent: light green
   font:
     text: Roboto
     code: Roboto Mono
@@ -49,6 +49,7 @@ plugins:
 # Extensions
 markdown_extensions:
   - admonition
+  - attr_list
   - codehilite:
       guess_lang: false
   - toc:
