@@ -1,36 +1,46 @@
 # Economy
 
-!!! question "Page incomplete"
-	This page needs [contribution](/contributing)!
+Players start with $500 and can earn more money by [voting](https://www.left4craft.org/vote/), trading with players, or participating in [count to a million](https://discord.com/channels/424571587413540874/779454172826697728) in the Discord server.
 
-The server makes use of an dynamic economy plugin, that allows players to sell and buy items, check costs, mantain a balance, and pay other players. Players start with $500 as starter money. Players can earn more money by [voting](https://www.left4craft.org/vote/), selling items, or participating in [count to a million](https://discord.com/channels/424571587413540874/779454172826697728) on the L4C discord server. Note that it is a random chance that participating in count to a million will result in winning money.               
+Trade can take take place either on the [public marketplace](#marketplace), or privately through [`/trade`](#trade).
 
 ## Earnings per action
-Action | Earnings
--------|---------
-Voting | $100
-Selling Item | Varies
-Discord count to a million | $25
+| Action                     | Earnings |
+| -------------------------- | -------- |
+| Voting                     | $100     |
+| Selling Item               | Varies   |
+| Discord count to a million | $25      |
 
 ## Commands
-Command | Description
---------|-----------
-`/buy <item> [amount]` | Buy items from the server
-`/sell <item> [amount]` | Sell items to the server
-`/sellhand` | Sell item in hand to the server
-`/sellall` | Sells all items in inventory (**dangerous**)
-`/cost [item]` | Displays how much an item is worth
-`/balance` | Displays amunt of money in players account 
-`/pay <player> <amount>` | Transfer money to another player
-`/trade <player>` | Trade with a player
+| Command                  | Aliases   | Description                      |
+| ------------------------ | --------- | -------------------------------- |
+| `/balance [player]`      | `/bal`    | See how much money you have      |
+| `/balancetop`            | `/baltop` | See who has the most money       |
+| `/pay <player> <amount>` |           | Transfer money to another player |
+| `/trade <player>`        |           | Trade with a player              |
+| `/marketplace ...`       | `/mp ...` | Use the marketplace              |
 
-!!! danger
-	`/sellall` will sell **everything** in your inventory, not just all of one item!
-	Remove anything your don't want to sell before using this command.
-	
-## Trade
 
-Initiate a trade by using `/trade <player>`. The other player will have 15 seconds to accept your trade offer by clicking in chat. 
+### Marketplace
 
-When accepted, both players will see a GUI (a virtual chest inventory) where you can echange items, money, XP, and claim blocks.
+The virtual marketplace allows players to list items for sale at a set price which other players can buy, even when the seller is offline.
 
+#### Commands
+
+| Command                                                    | Description                                             |
+| ---------------------------------------------------------- | ------------------------------------------------------- |
+| `/mp publish/sell <price>`                                 | Sell the item in your hand                              |
+| `/mp search`                                               | Open the search menu                                    |
+| `/mp limits [get|decrement] [player] [slots]`              | Manage the limits of players                            |
+| `/mp help [command]`                                       | Open the help menu or get help from a specific command. |
+| `/mp cancel/borrow <options>`                              | Cancel items, for now just –all enabled                 |
+| `/mp setpin/webpin <new-pin>`                              | Sets the pin of your webclient account.                 |
+| `/mp wallet/webmoney <deposit|widthdraw|check> [player|$]` | Manage the money in your webclient account.             |
+
+[More information.](https://marketplacedocs.readthedocs.io/en/latest/commands)
+
+### Trade
+
+The Trade GUI allows two players to safely exchange items, money, XP (experience points), and claim blocks. Neither player can take the other's items until both accept the trade.
+
+Initiate trade with  `/trade <player>`. The other player will have 15 seconds to accept your trade offer by clicking in chat.
