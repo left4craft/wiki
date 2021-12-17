@@ -9,7 +9,7 @@ So you can continue to enjoy your builds long after we update and reset, we make
 | -------------------------- | ----- | --------------- | --------------- | -------------------------------------------------------------------------------------------------------- |
 | Survival 1.13 - 1.15       | *???* | *???*           | 21.2 GB         | [Compressed](https://l4c.link/13-15-survival-zip), [Uncompressed](https://l4c.link/13-15-survival-files) |
 | Creative *long ago* - 1.15 | --    | *???*           | *???*           | *???*                                                                                                    |
-| Survival 1.16 - 1.17       | *???* | `777, 96, -334` | *???*           | *???*                                                                                                    |
+| Survival 1.16 - 1.17       | *???* | `777, 96, -334` | 29GB            | *???*                                                                                                    |
 
 Other downloads are available [here](https://l4c.link/13world).
 
