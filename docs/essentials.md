@@ -12,7 +12,7 @@ All EssentialsX commands can be found [here](https://l4c.link/ess). Some command
 
 ## Left4Chat commands
 
-|            Command            |                 Aliases                 |            Description             |
-| ----------------------------- | --------------------------------------- | ---------------------------------- |
-| `/message <player> <message>` | `/msg`, `/tell`, `/whisper`, `/t`, `/w` | Send a private message to someone  |
-| `/reply <message>`            | `/r`                                    | Reply to your last private message |
+| Command                       | Aliases                                        | Description                        |
+| ----------------------------- | ---------------------------------------------- | ---------------------------------- |
+| `/message <player> <message>` | `/msg`, `/pm`, `/tell`, `/whisper`, `/t`, `/w` | Send a private message to someone  |
+| `/reply <message>`            | `/r`                                           | Reply to your last private message |
