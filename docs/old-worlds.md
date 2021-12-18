@@ -1,6 +1,6 @@
 # Old worlds
 
-So you can continue to enjoy your builds long after we update and reset, we make previous worlds available for download for as long as possible.
+So you can continue to enjoy your builds long after we update and reset, we make previous worlds available to download for as long as possible.
 
 
 ## Downloads
