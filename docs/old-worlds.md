@@ -12,6 +12,9 @@ So you can continue to enjoy your builds long after we update and reset, we make
 | Survival 1.16 - 1.17 (`world`)         | `911358417907257`      | `777, 96, -334`   | 28.8 GB         | [Compressed](https://l4c.link/16-17-survival-zip), [Uncompressed](https://l4c.link/16-17-survival-files)               |
 | Survival 1.16 - 1.17 (`world_nether`)  | --                     | --                | 3.9 GB          | [Compressed](https://l4c.link/16-17-survival-nether-zip), [Uncompressed](https://l4c.link/16-17-survival-nether-files) |
 | Survival 1.16 - 1.17 (`world_the_end`) | --                     | --                | 3.4 GB          | [Compressed](https://l4c.link/16-17-survival-end-zip), [Uncompressed](https://l4c.link/16-17-survival-end-files)       |
+| Survival 1.18 (`world`)                | `-796373454075539119`  | `1087, 93, -509`  | 17.5 GB         | [Compressed](https://l4c.link/118-survival-zip), [Uncompressed](https://l4c.link/118-survival-files)                   |
+| Survival 1.18 (`world_nether`)         | --                     | --                | 2.2 GB          | [Compressed](https://l4c.link/118-survival-nether-zip)                                                                 |
+| Survival 1.18 (`world_the_end`)        | --                     | --                | 1.0 GB          | [Compressed](https://l4c.link/118-survival-end-zip)                                                                    |
 
 Other downloads are available [here](https://l4c.link/13world).
 
