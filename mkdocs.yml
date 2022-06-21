@@ -31,7 +31,7 @@ theme:
 # Extras
 extra:
   social:
-    - icon: fontawesome/solid/home
+    - icon: fontawesome/solid/house
       link: https://www.left4craft.org
     - icon: fontawesome/brands/github-alt
       link: https://github.com/left4craft
