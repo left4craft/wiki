@@ -102,12 +102,16 @@ Anyone found to have breached the rules may face [punishment as described below]
 The following clients and mods are allowed:
 
 - Optifine
+- Sodium
 - LabyMod
+- No Chat Reports
 - Badlion client
 - Lunar client
 - Schematic Mod (As long as it doesn't build for you and is not used for build tests)
 
 If it is not listed here, it is not allowed. If you believe this list is missing something that should be allowed, contact an admin on Discord.
+
+Please note these modifications are neither endorsed nor supported by Left4Craft. All client modifications are installed at your own risk.
 
 ## Punishments
 
