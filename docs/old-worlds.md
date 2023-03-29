@@ -8,15 +8,15 @@ So you can continue to enjoy your builds long after we update and reset, we make
 | World                                  | Seed                   | Spawn location    | Compressed size | Links                                                                                                                  |
 | -------------------------------------- | ---------------------- | ----------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | Survival 1.13 - 1.15 (`world`)         | `-3417273309160634301` | `-1215, 149, 609` | 21.2 GB         | [Compressed](https://l4c.link/13-15-survival-zip), [Uncompressed](https://l4c.link/13-15-survival-files)               |
-| Creative *long ago* - 1.15             | --                     | *???*             | *???*           | *???*                                                                                                                  |
+| Creative *long ago* - 1.15             | --                     | --                | --              | `/warp oldcreative`                                                                                                    |
 | Survival 1.16 - 1.17 (`world`)         | `911358417907257`      | `777, 96, -334`   | 28.8 GB         | [Compressed](https://l4c.link/16-17-survival-zip), [Uncompressed](https://l4c.link/16-17-survival-files)               |
 | Survival 1.16 - 1.17 (`world_nether`)  | --                     | --                | 3.9 GB          | [Compressed](https://l4c.link/16-17-survival-nether-zip), [Uncompressed](https://l4c.link/16-17-survival-nether-files) |
 | Survival 1.16 - 1.17 (`world_the_end`) | --                     | --                | 3.4 GB          | [Compressed](https://l4c.link/16-17-survival-end-zip), [Uncompressed](https://l4c.link/16-17-survival-end-files)       |
-| Survival 1.18 (`world`)                | `-796373454075539119`  | `1087, 93, -509`  | 17.5 GB         | [Compressed](https://l4c.link/118-survival-zip), [Uncompressed](https://l4c.link/118-survival-files)                   |
-| Survival 1.18 (`world_nether`)         | --                     | --                | 2.2 GB          | [Compressed](https://l4c.link/118-survival-nether-zip)                                                                 |
-| Survival 1.18 (`world_the_end`)        | --                     | --                | 1.0 GB          | [Compressed](https://l4c.link/118-survival-end-zip)                                                                    |
+| Survival 1.18 (`world`)                | `-796373454075539119`  | `1087, 93, -509`  | 17.5 GB         | [Compressed](https://l4c.link/18-survival-zip), [Uncompressed](https://l4c.link/18-survival-files)                     |
+| Survival 1.18 (`world_nether`)         | --                     | --                | 2.2 GB          | [Compressed](https://l4c.link/18-survival-nether-zip), [Uncompressed](https://l4c.link/18-survival-nether-files)       |
+| Survival 1.18 (`world_the_end`)        | --                     | --                | 1.0 GB          | [Compressed](https://l4c.link/18-survival-end-zip), [Uncompressed](https://l4c.link/18-survival-end-files)             |
 
-Other downloads are available [here](https://l4c.link/13world).
+Other downloads are available at [left4craft.download](https://left4craft.download/).
 
 The "Compressed" links are ZIP files containing the entire world, whilst "Uncompressed" links go to a page where you can [download specific files](#how-to-download-specific-chunks). 
 
@@ -38,10 +38,10 @@ If The Nether and The End are also available, you can merge them into the main s
 
 Either:
 
-- Download and decompress the entire world (called `world_nether` or `world_end`) using the "Compressed" link
+- Download and decompress the entire world (called `world_nether` or `world_the_end`) using the "Compressed" link
 - Use the "Uncompressed" link, navigate to `DIM-1/` for The Nether or `DIM1/` for The End, and download specific files from `region/` and `entities/` as described above 
 
-Then, move the downloaded files into the `DIM-1/` (Nether) and `DIM1/` (End) folders inside the main save folder
+Then, move the downloaded files into the `DIM-1/` (The Nether) and `DIM1/` (The End) folders inside the main save folder
 
 You should now have a directory tree that looks like this:
 
