@@ -25,7 +25,7 @@ The "Compressed" links are ZIP files containing the entire world, whilst "Uncomp
 The worlds can be over 20GB in size which may be too large for some players to be able to download or save. This guide explains how to download your own builds without everyone else's.
 
 
-1. Use [this tool](https://dinnerbone.com/minecraft/tools/coordinates/) to find the region names
+1. Use [this tool](https://web.archive.org/web/20221129042222/https://dinnerbone.com/minecraft/tools/coordinates/) to find the region names
 2. Click on the "Uncompressed" link for the world
 3. Select and download all of the MCA region files you need from `region/` and `entities/`
 4. Optionally, download the `advancements/`, `playerdata/`, and `stats/` files with your UUID in the file name
