@@ -15,6 +15,9 @@ So you can continue to enjoy your builds long after we update and reset, we make
 | Survival 1.18 (`world`)                | `-796373454075539119`  | `1087, 93, -509`  | 17.5 GB         | [Compressed](https://l4c.link/18-survival-zip), [Uncompressed](https://l4c.link/18-survival-files)                     |
 | Survival 1.18 (`world_nether`)         | --                     | --                | 2.2 GB          | [Compressed](https://l4c.link/18-survival-nether-zip), [Uncompressed](https://l4c.link/18-survival-nether-files)       |
 | Survival 1.18 (`world_the_end`)        | --                     | --                | 1.0 GB          | [Compressed](https://l4c.link/18-survival-end-zip), [Uncompressed](https://l4c.link/18-survival-end-files)             |
+| Survival 1.19 (`world`)                | `6418865445771694308`  | `841, 93, -602`   | 16.2 GB         | [Compressed](https://l4c.link/19-survival-zip), [Uncompressed](https://l4c.link/19-survival-files)                     |
+| Survival 1.19 (`world_nether`)         | --                     | --                | 0.8 GB          | [Compressed](https://l4c.link/19-survival-nether-zip), [Uncompressed](https://l4c.link/19-survival-nether-files)       |
+| Survival 1.19 (`world_the_end`)        | --                     | --                | 0.4 GB          | [Compressed](https://l4c.link/19-survival-end-zip), [Uncompressed](https://l4c.link/19-survival-end-files)             |
 
 Other downloads are available at [left4craft.download](https://left4craft.download/).
 
