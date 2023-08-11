@@ -31,7 +31,6 @@ You can also buy and sell items to the server to earn money. Most transactions a
 | ---------------------------------------------------------- | ------------------------------------------------------------ |
 | `/mt`                                                      | Opens the main GUI.                                          |
 | `/mt help`                                                 | Lists all commands and their description.                    |
-| `/mt pay <player> <amount>`                                | Pay a player a specified amount of money.                    |
 | `/mt sell`                                                 | Sell the item in your hand.                                  |
 | `/mt sell all`                                             | Sells all items of the same type in your hand.               |
 | `/mt price`                                                | Check the price of the item in your hand.                    |
