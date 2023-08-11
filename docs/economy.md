@@ -1,8 +1,8 @@
 # Economy
 
-Players start with $500 and can earn more money by [voting](https://www.left4craft.org/vote/), trading with players, or participating in [count to a million](https://discord.com/channels/424571587413540874/779454172826697728) in the Discord server.
+Money can be earned by voting at [voting](https://www.left4craft.org/vote/), trading with players, participating in [count to a million](https://discord.com/channels/424571587413540874/779454172826697728) in the Discord server or selling items to the market.
 
-Trade can take take place either on the [public marketplace](#marketplace), or privately through [`/trade`](#trade).
+Trade can take take place either on the [public marketplace](#Market), or privately through [`/trade`](#trade).
 
 ## Earnings per action
 | Action                     | Earnings |
@@ -18,26 +18,26 @@ Trade can take take place either on the [public marketplace](#marketplace), or p
 | `/balancetop`            | `/baltop` | See who has the most money       |
 | `/pay <player> <amount>` |           | Transfer money to another player |
 | `/trade <player>`        |           | Trade with a player              |
-| `/marketplace ...`       | `/mp ...` | Use the marketplace              |
+| `/mt`                    |           | Opens the main GUI.              |
 
-
-### Marketplace
+### Market
 
 The virtual marketplace allows players to list items for sale at a set price which other players can buy, even when the seller is offline.
+You can also buy and sell items to the server to earn money. Most transactions are taxed.
 
 #### Commands
 
-| Command                                                    | Description                                             |
-| ---------------------------------------------------------- | ------------------------------------------------------- |
-| `/mp publish/sell <price>`                                 | Sell the item in your hand                              |
-| `/mp search`                                               | Open the search menu                                    |
-| `/mp limits [get|decrement] [player] [slots]`              | Manage the limits of players                            |
-| `/mp help [command]`                                       | Open the help menu or get help from a specific command. |
-| `/mp cancel/borrow <options>`                              | Cancel items, for now just –all enabled                 |
-| `/mp setpin/webpin <new-pin>`                              | Sets the pin of your webclient account.                 |
-| `/mp wallet/webmoney <deposit|widthdraw|check> [player|$]` | Manage the money in your webclient account.             |
-
-[More information.](https://marketplacedocs.readthedocs.io/en/latest/commands)
+| Command                                                    | Description                                                  |
+| ---------------------------------------------------------- | ------------------------------------------------------------ |
+| `/mt`                                                      | Opens the main GUI.                                          |
+| `/mt help`                                                 | Lists all commands and their description.                    |
+| `/mt pay <player> <amount>`                                | Pay a player a specified amount of money.                    |
+| `/mt sell`                                                 | Sell the item in your hand.                                  |
+| `/mt sell all`                                             | Sells all items of the same type in your hand.               |
+| `/mt price`                                                | Check the price of the item in your hand.                    |
+| `/mt shop`                                                 | Opens the buy page.                                          |
+| `/mt market`                                               | Opens the market page where you may buy from other players.  |
+| `/mt market sell <price>`                                  | List items on the market for other players to buy.           |
 
 ### Trade
 
